@@ -8,6 +8,7 @@ public class DemoApplication {
     public static void main(String[] args) {
         //みのるコーチの挨拶
         System.out.println("こんにちはみのろコーチです。");
+
         //剛瑠くんの挨拶
         System.out.print("こんにちは");
         System.out.println("速水剛瑠です。");
