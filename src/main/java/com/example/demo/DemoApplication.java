@@ -6,6 +6,9 @@ package com.example.demo;
 public class DemoApplication {
 
     public static void main(String[] args) {
+        //彩香さんの挨拶
+        System.out.println("こんにちは。河合彩香です。");
+
         //みのるコーチの挨拶
         System.out.println("こんにちはみのろコーチです。");
 
@@ -13,8 +16,7 @@ public class DemoApplication {
         System.out.print("こんにちは");
         System.out.println("速水剛瑠です。");
 
-        //彩香さんの挨拶
-        System.out.println("こんにちは。河合彩香です。");
+
 }
 
 
