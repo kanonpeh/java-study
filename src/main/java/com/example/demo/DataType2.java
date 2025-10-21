@@ -1,6 +1,6 @@
 package com.example.demo;
 
-public class DemoApplication3 {
+public class DataType2 {
     public static void main(String[] args) {
         //変数の宣言・初期化
         int a = 5;
