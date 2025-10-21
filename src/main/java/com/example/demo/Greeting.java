@@ -3,7 +3,7 @@ package com.example.demo;
 *Javaプログラムのコメントをいれたサンプル
 * 作成：:K
  */
-public class DemoApplication {
+public class Greeting {
 
     public static void main(String[] args) {
         //彩香さんの挨拶
